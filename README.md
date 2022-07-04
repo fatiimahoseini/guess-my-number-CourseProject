@@ -1,4 +1,5 @@
 # GUESS MY NUMBER 
+![preview-guess-my-number-NOX](https://user-images.githubusercontent.com/87571337/177210447-34593256-85f7-4d5e-8f7f-2bb20014f29d.jpg)
 
 # ABOUT
 Guess the number randomly chosen by the computer with the help of hints (Too low/Too high).
